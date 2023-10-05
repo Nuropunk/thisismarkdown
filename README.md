@@ -42,7 +42,9 @@ Or a table
 
 Emojis too 🫡
 
-Or an ![image](/content
+How about an ![image](/content
+
+Or a story
 
 
 
@@ -51,6 +53,8 @@ You can even add links, like [The First Recursive Markdown Article](/content/2b5
 Or [A Cypherpunk's Manifesto](/content/8cb9a7f93677cc17a9f15acdd36ff368bf4efbf9cba6b77922c401f137e38025i0)
 
 You can even create markdown content on chain with the [Cypherpunk Markdown Editor](/content/12392618ff20348a110504fb06da5996ca844c7c3b69bfcf4ba0cc74ef310f82i0)
+
+With parent child you can create a signature as an author to demonstrate provenance and authenticity of all your work. 
 
 Oh yeah, and this is all onchain. On Bitcoin. Forever. 
 
