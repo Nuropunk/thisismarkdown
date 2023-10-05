@@ -1,7 +1,3 @@
-# CYPHERPUNKS WRITE MARKDOWN
-
-![CWM](/content/18cd509317ec0de863a3ed23a78324c3ccf93275afaaeac45741f5da5e69e4bei0) 
-
 This is Markdown. 
 
 The thing with "bad ui/ux". 
