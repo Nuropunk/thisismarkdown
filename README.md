@@ -22,9 +22,9 @@ I could give you a bullet list too
 * CODE
 
 Or numbered if you prefer
-1. FUCK
-2. THE
-3. LARPS
+1. CYPHERPUNKS
+2. WRITE
+3. MARKDOWN
 
 
 > Block quotes? Yeah that's easy too
