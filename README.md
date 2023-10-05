@@ -42,6 +42,10 @@ Or a table
 
 Emojis too 🫡
 
+I can share my favorite art ![art](/content/6a6296dfe1cd6c8d1e31b142656d5a3de3b646df83d34bc1e4aabb15ef7e8e89i0)
+
+And image
+
 How about an ![image](/content
 
 Or a story
