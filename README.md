@@ -40,7 +40,7 @@ Or a table
 | ❌ | ✅ |
 | 😱 | ❤️‍🔥 |
 
-Including emojis 🫡
+Emojis too 🫡
 
 Or an ![image](/content
 
